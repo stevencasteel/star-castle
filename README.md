@@ -1,10 +1,14 @@
 # Star Castle
 
+![Star Castle illustrated cover art](docs/cover.png)
+
 [Play in your browser](https://stevencasteel.github.io/star-castle/) · [Play on itch.io](https://stevencasteel.itch.io/star-castle)
 
 ![Star Castle gameplay: a ship approaches breaches in the rotating shields](docs/gameplay.png)
 
-A compact procedural browser game: breach rotating shields, wear down the central boss, and evade sparks and cannon fire. Canvas 2D, TypeScript, Vite, native Web Audio, zero runtime dependencies, no menus or imported assets.
+A compact procedural browser game: breach rotating shields, wear down the central boss, and evade sparks and cannon fire. Canvas 2D, TypeScript, Vite, native Web Audio, zero runtime dependencies, no menus or imported gameplay assets.
+
+The cover is promotional artwork generated with AI; the gameplay screenshot above shows the procedural game. Artwork prompt and provenance: [`docs/COVER.md`](docs/COVER.md).
 
 ## Delivery: Phase 6 of 6
 
